@@ -1,0 +1,16 @@
+{
+  "name": "asynchronus-file-type",
+  "version": "1.0.0",
+  "description": "Node.js Celebal Assingment Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http-server": "^14.1.1"
+  }
+}
